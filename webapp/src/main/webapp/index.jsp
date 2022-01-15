@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Easy Pizzy User  Registration: </h1>
 	
-    <h2> Mandatory to fill all spaces: </h2>
+    <h2> Please fill all spaces: </h2>
     <p>Please fill in this form to create an account.</p>
     <hr><br>
      
