@@ -1,7 +1,8 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Easy Pizzy User  Registration: </h1>
-    <h2> All the fields must be filled to create an account</h2>
+	
+    <h2> Mandatory to fill all spaces: </h2>
     <p>Please fill in this form to create an account.</p>
     <hr><br>
      
